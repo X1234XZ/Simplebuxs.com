@@ -34,17 +34,15 @@
       <td>
 	      <h1 class="gg"> 170,123,124 </h1> 
 	      <h1 class="aa">S$ Earned</h1>
-	      
-	      </td>
-	      <td>
+	       <h1 class="bb"> 51,345 </h1>
+	      <h1 class="cc"> Rewards Redeemed </h1>
 	      <h1 class="bb"> 51,345 </h1>
 	      <h1 class="cc"> Rewards Redeemed </h1>
+	     
 	      </td>
 	      </tr>
 	      </table>
-	      <h1 class="dd"> 124,345,765 </h1>
-	      <h1 class="cc"> Offers Completed </h1>
-	   
+	      
 	</div>
 	  <style>
 		  .dd {
