@@ -41,10 +41,10 @@
 	      <h1 class="cc"> Rewards Redeemed </h1>
 	      </td>
 	      </tr>
-	      
+	      </table>
 	      <h1 class="dd"> 124,345,765 </h1>
 	      <h1 class="cc"> Offers Completed </h1>
-	   </table>
+	   
 	</div>
 	  <style>
 		  .dd {
