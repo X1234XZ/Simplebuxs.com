@@ -2,6 +2,7 @@
 	<head>
 	<link rel="icon" href="Screenshot.png">
 	<link href="https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
 	</head>
     
 	 <body scroll="no" style="overflow: hidden;background:url(SImplebuxs_raw2.jpg);background-repeat:no-repeat;background-size:100% 100%;
@@ -41,7 +42,7 @@
 		  .dd {
 		  
 		
-			font-family: 'Roboto', sans-serif;
+			font-family: 'Abel', sans-serif;
 			font-size: 60px;
 			margin-bottom: 5px;
 			 margin-left: 80px;
@@ -53,7 +54,7 @@
 		  font-size: 20px;
 			  margin-top: 5px;
 			  margin-left: 160px;
-			  
+			  font-family: 'Abel', sans-serif;
 		  
 		  
 		  }
@@ -64,7 +65,7 @@
 			  font-size: 60px;
 			  margin-top: 100px;
 			  margin-bottom: 0px;
-			  font-family: 'Roboto', sans-serif;
+			  font-family: 'Abel', sans-serif;
 		  
 		  }
 		  
@@ -74,12 +75,12 @@
 		  font-size: 20px;
 			margin-top: 5px;
 			  margin-left: 190px;
-		  font-family: 'Roboto', sans-serif;
+		 font-family: 'Abel', sans-serif;
 		  }
 		  
 		  
 		 .gg {
-			font-family: 'Roboto', sans-serif;
+			font-family: 'Abel', sans-serif;
 			font-size: 60px;
 			margin-bottom: 5px;
 			 margin-left: 80px;
@@ -88,14 +89,14 @@
 		  
 		  .xz {
 		  
-			  font-family: "Impact", sans-serif;
+			  font-family: 'Abel', sans-serif;
 			  font-size: 100px;
 			  color: #3e5df9;
 		  }
 	  
 		  .abcd {
 		  
-	font-family: "Impact", sans-serif;
+	font-family: 'Abel', sans-serif;
 		  color: #89ed25;
 		  }	  
 		  
