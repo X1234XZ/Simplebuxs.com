@@ -29,7 +29,7 @@
       
       <!-- Page content -->
       <div class="content">
-      <table class="cdg">
+      <table class="ddg">
       <tr>
       <td class="cdg">
 	      <h1 class="gg"> 170,123,124 </h1> 
@@ -49,6 +49,11 @@
 	      
 	</div>
 	  <style>
+	  
+	  .ddg {
+	  width: 100%;
+	  }
+	  
 	  
 	  .cdg {
 	  
