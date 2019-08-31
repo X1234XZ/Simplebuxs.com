@@ -41,7 +41,7 @@
 	     
 	      </td>
 	      <td>
-	      <img  src="https://media.discordapp.net/attachments/603002766046265386/616394196244365329/theorem.png"/>
+	      <img  src="https://media.discordapp.net/attachments/603002766046265386/616394196244365329/theorem.png" class="123123" />
 	      <img  src="https://media.discordapp.net/attachments/603002766046265386/616394314980917380/adscend.png"/>
 	      </td>
 	       
@@ -51,6 +51,10 @@
 	</div>
 	  <style>
 	 
+	 .123123 {
+	 
+	 margin-top: 10px;
+	 }
 	  
 	  .ddg {
 	  width: 100%;
